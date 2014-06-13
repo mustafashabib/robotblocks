@@ -1,0 +1,2 @@
+git config core.whitespace nowarn
+git config core.autocrlf true
